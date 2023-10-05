@@ -1,0 +1,13 @@
+body {
+    padding: 50px;
+}
+#bang2{
+    border-collapse: collapse;
+    width: 100%;
+    align-text: center;
+    padding: 8px;
+
+}
+#bang2 tr:nth-child(even){
+    background-color: #fafafa;
+}
